@@ -5,3 +5,9 @@ Add, subtract, multiply and divide two numbers; display the result.
 From Week 3: python3 calculator.py
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
+
+From Week 4: Run the program using ./run.sh
+Exit the program using Ctrl+C
+
+From Week 5: Run /check.sh to perform tests. Five tests should be passed.
+echo $? reports the status. 0 is a success, 1 is at least one failure, 5 is no tests were run.
